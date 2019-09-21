@@ -1,4 +1,4 @@
-package com.manager.security.core;
+package com.manager.core;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;

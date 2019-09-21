@@ -1,6 +1,6 @@
-package com.manager.security;
+package com.manager.config;
 
-import com.manager.security.core.CustomUserDetailService;
+import com.manager.core.CustomUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
